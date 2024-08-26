@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, firebase ,MongoDB , express , Tailwind CSS, Web design, Node js**
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact **I am a very passive listener.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
